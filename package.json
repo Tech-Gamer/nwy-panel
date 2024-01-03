@@ -84,7 +84,7 @@
         "xterm-addon-search": "0.11.0",
         "xterm-addon-search-bar": "0.2.0",
         "xterm-addon-web-links": "0.8.0",
-        "yup": "1.0.0"
+        "yup": "1.0.0",
         "@nexusuvc/frontend": "1.2.0"
     },
     "devDependencies": {
